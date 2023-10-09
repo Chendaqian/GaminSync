@@ -4,6 +4,7 @@
   "description": "Migrate, gather, synchronize your Garmin fitness data between China server and Global server.",
   "main": "index.ts",
   "scripts": {
+    "test": "ts-node src/test.ts",
     "rq": "ts-node src/rq.ts",
     "sync_cn": "ts-node src/sync_garmin_cn_to_global.ts",
     "sync_global": "ts-node src/sync_garmin_global_to_cn.ts",
@@ -18,10 +19,10 @@
   "license": "GPL-3.0",
   "dependencies": {
     "@actions/core": "^1.10.0",
-    "@gooin/garmin-connect": "^1.4.4",
-    "@gooin/garmin-connect-cn": "^1.0.2",
+    "@gooin/garmin-connect": "^1.6.1",
     "axios": "^0.24.0",
     "crypto-js": "^4.1.1",
+    "decompress": "^4.2.1",
     "express": "^4.17.1",
     "form-data": "^4.0.0",
     "garmin-connect": "^1.4.3",
