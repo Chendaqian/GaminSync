@@ -29,3 +29,4 @@ _site/
 .idea
 
 config.yaml
+/.vs
