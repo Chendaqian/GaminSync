@@ -8,7 +8,9 @@
   <img src='https://badges.strava.com/logo-strava.png' alt='Strava' style='margin-left:2px;vertical-align:text-bottom' height=13 width=51 />
 </a>
 
+see https://deepwiki.com/Chendaqian/GaminSync
 
+https://deepwiki.com/badge-maker?url=https%3A%2F%2Fdeepwiki.com%2FChendaqian%2FGaminSync
 
 [![](https://img.shields.io/badge/-Telegram-%2326A5E4?style=flat-square&logo=telegram&logoColor=ffffff)](https://t.me/garmindailysync)
 
