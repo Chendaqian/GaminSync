@@ -10,7 +10,7 @@
 
 see https://deepwiki.com/Chendaqian/GaminSync
 
-https://deepwiki.com/badge-maker?url=https%3A%2F%2Fdeepwiki.com%2FChendaqian%2FGaminSync
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/Chendaqian/GaminSync)
 
 [![](https://img.shields.io/badge/-Telegram-%2326A5E4?style=flat-square&logo=telegram&logoColor=ffffff)](https://t.me/garmindailysync)
 
