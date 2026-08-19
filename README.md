@@ -280,3 +280,13 @@ tail -100f /var/log/dailysync.log
 
 为方便讨论，请加我绿色软件：nononopass （下面扫码）我拉你进群。`nononopass`  我拉你进群。
 ![二维码扫码](./assets/wechat_qr.png)
+
+## Star History
+
+<a href="https://www.star-history.com/?repos=Chendaqian%2FGaminSync&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=Chendaqian/GaminSync&type=date&theme=dark&legend=top-left&sealed_token=oFrhQ1mxutB6PUugxXOYzwMmedKtnpoSNaGCRhfIyQJxOkSARgkB8TsVEadXJ1zOeTTJ9MDzlXy7Tz4Ifq-SA6_A7X6wYucg9kE1hATEmg1_J_wAkMYrpbnBGOubfmhLuUEmxkx3UkuBrpipqWsQTvyuWfPjDV5y7YvgTJyHNQVS0Lu3NkzLJFtJI0Nc" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=Chendaqian/GaminSync&type=date&legend=top-left&sealed_token=oFrhQ1mxutB6PUugxXOYzwMmedKtnpoSNaGCRhfIyQJxOkSARgkB8TsVEadXJ1zOeTTJ9MDzlXy7Tz4Ifq-SA6_A7X6wYucg9kE1hATEmg1_J_wAkMYrpbnBGOubfmhLuUEmxkx3UkuBrpipqWsQTvyuWfPjDV5y7YvgTJyHNQVS0Lu3NkzLJFtJI0Nc" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=Chendaqian/GaminSync&type=date&legend=top-left&sealed_token=oFrhQ1mxutB6PUugxXOYzwMmedKtnpoSNaGCRhfIyQJxOkSARgkB8TsVEadXJ1zOeTTJ9MDzlXy7Tz4Ifq-SA6_A7X6wYucg9kE1hATEmg1_J_wAkMYrpbnBGOubfmhLuUEmxkx3UkuBrpipqWsQTvyuWfPjDV5y7YvgTJyHNQVS0Lu3NkzLJFtJI0Nc" />
+ </picture>
+</a>
